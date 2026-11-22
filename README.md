@@ -1,8 +1,8 @@
 # One Strawberry. Taste It.
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-ff5c8a)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun · the-picture-that-tastes-of-one-20261122-2047](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/Akhmad045/makefun-picture-tastes-one/rank.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/Akhmad045/makefun-picture-tastes-one/reward.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
 
 Entry for the make.fun bounty
 [The picture that tastes of one ingredient](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
