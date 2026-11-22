@@ -2,7 +2,9 @@
 """The picture that tastes of one ingredient -- make.fun entry.
 
 Writes one image to /output/entry.png: a single ripe strawberry, drawn at
-build time (see draw_entry.py) and committed as entry.png next to this file.
+build time (see draw_entry.py) and committed as entry.png next to this file --
+glossy, fresh, beaded with water droplets, a halved berry beside it showing
+the juicy flesh, on a white plate in warm light (1024x1024 PNG).
 This program only copies that committed PNG into /output -- stdlib only,
 no network, no third-party imports -- because the grading sandbox is offline.
 """
